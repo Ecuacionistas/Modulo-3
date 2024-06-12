@@ -1,0 +1,111 @@
+---
+title: "Gemelos digitales"
+author: "Ecuacionistas"
+date: "2024-05-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Gemelos Digitales
+
+Un gemelo digital es una réplica virtual dinámica de un objeto físico o proceso que refleja su estado en tiempo real. Se crea utilizando datos sensoriales, modelos de ingeniería y simulaciones para generar una copia digital precisa del objeto o proceso físico.
+
+### Características principales:
+
+* Representación virtual: Modelos computacionales que representan la estructura, el comportamiento y las características del objeto o proceso físico.
+* Datos en tiempo real: Actualización constante con datos sensoriales provenientes del objeto o proceso físico para reflejar su estado actual de manera precisa.
+* Simulación y predicción: Permite simular el comportamiento del objeto o proceso físico en diferentes escenarios para predecir su desempeño y tomar decisiones informadas.
+
+### Aplicaciones en diversos sectores:
+
+* Manufactura: Optimización de procesos de producción, predicción de fallas en equipos, mejora de la calidad del producto y reducción de costos.
+* Salud: Creación de modelos personalizados de pacientes, simulación de procedimientos médicos y desarrollo de nuevos tratamientos.
+* Ciudades inteligentes: Optimización del tráfico, la energía y otros servicios públicos, mejora de la seguridad pública y planificación del crecimiento urbano.
+* Logística: Rastreo de la ubicación y el estado de los envíos, optimización de las rutas de transporte y reducción de los tiempos de entrega.
+* Energía: Optimización de la producción y distribución de energía, reducción del consumo de energía y mejora de la confiabilidad de la red.
+
+### Beneficios:
+
+* Mejora de la eficiencia: Optimización de procesos, reducción de costos y mejora de la eficiencia general.
+* Reducción de riesgos: Predicción de fallas y prevención de problemas antes de que ocurran.
+* Mejora de la toma de decisiones: Información valiosa para tomar decisiones informadas.
+* Impulso a la innovación: Desarrollo de nuevos productos y servicios.
+Los gemelos digitales son una herramienta poderosa con un gran potencial para transformar diversas industrias.
+
+## Articulo cientifico sobre gemelos digitales.
+
+A continuación analizamos un artículo sobre la aplicación de los gemelos digitales en la industría. Especificamente, sobre gemelos digitales en una planta de producción de hidrógeno.
+
+*"Los gemelos digitales son plantas virtuales dotadas de una arquitectura y funcionalidades que les convierten en herramientas útiles  para  mejorar  muchos  aspectos  de  la  operación  de  los  procesos,  desde  el  control  a  la  optimización  de  los  mismos.  No  obstante, para ser usados en tiempo real como herramientas eficaces de toma de decisiones, hay varios problemas abiertos que requieren investigación adicional, entre ellos los relativos a la actualización de los modelos en tiempo real y a la consideración explícita de las incertidumbres presentes en los modelos y los procesos. Este artículo discute su arquitectura y papel en el contexto de Industria 4.0, y recoge y analiza una experiencia concreta referida a la red de hidrogeno de una refinería de petróleo que ilustra las posibilidades de utilización industrial de los gemelos digitales, así como los problemas abiertos que presenta su implantaciónen la industria de procesos."*
+
+de Prada, C., Galán-Casado, S., Pitarch, J. L., Sarabia, D., Galán, A., & Gutiérrez, G. (2022). Gemelos digitales en la industria de procesos. Revista Iberoamericana de Automática e Informática industrial, 19(3), 285-296.
+
+### Situación problema
+
+Transporte y movilidad: 
+Problemática: Congestión de tráfico y la necesidad de mejorar el transporte público
+
+
+
+### Tesis
+
+#### Busqueda en web 
+aca explicar bonito las keywords que utilizamos y las paginas donde buscamos la info (Hay que buscar 10 articulos y citarlos de alguna manera para corroborar la busqueda web.)
+
+#### Gemelos Digitales: Transformando la Infraestructura de Transporte
+Este artículo analiza el concepto de Gemelos Digitales (DT) y su aplicación emergente en la infraestructura de transporte. Tras una breve introducción a su origen y componentes clave, el artículo explora las ventajas que ofrecen los DT para mejorar los resultados en el diseño, la gestión y el mantenimiento de carreteras, puentes y otros elementos críticos. Se destaca su capacidad para optimizar la eficiencia del diseño, impulsar la toma de decisiones basada en datos y generar inteligencia integral a través de la integración de múltiples fuentes de información. Además, se presenta un ejemplo ilustrativo de un Gemelo Digital aplicado a una carretera, detallando los beneficios potenciales para diversos actores de la cadena de suministro y los usuarios finales.
+
+Palabras clave: Gemelos Digitales, Infraestructura de Transporte, Diseño Óptimo, Toma de Decisiones, Inteligencia Integral.
+
+#### Introducción
+
+El término Gemelo Digital (DT) se refiere a una réplica virtual de un activo físico del mundo real. Acuñado por Michael Grieves en 2002, este concepto ha ganado impulso recientemente, especialmente en las industrias automotriz y aeroespacial. Un DT consta de tres componentes principales:
+
+Entorno físico: El activo real que se está representando, como una carretera, puente o sistema ferroviario.
+Modelo digital: Una representación virtual del entorno físico, que incluye datos estáticos, metadatos y otra información descriptiva.
+Conexiones: Los canales que permiten el flujo bidireccional de datos entre el entorno físico y el modelo digital.
+
+
+#### Gemelos digitales Urbanos
+
+Un gemelo digital urbano es esencialmente un modelo virtual de una ciudad que puede usarse para hacer predicciones en tiempo real sobre la ciudad. Un gemelo digital urbano puede implementarse en ciudades inteligentes, extrayendo datos históricos y en tiempo real del tráfico a partir de cámaras y sensores de la ciudad. Este modelo digital se alimenta de datos en tiempo real provenientes de sensores inteligentes distribuidos por toda la ciudad, que recopilan información sobre las dimensiones físicas y sociales de la ciudad.
+
+Las dimensiones físicas incluyen aspectos como los niveles de agua locales, las velocidades del viento y los patrones de tráfico en tiempo real. Estos datos permiten una gestión más eficiente de los recursos y una respuesta rápida a situaciones de emergencia. Por ejemplo, los niveles de agua y las velocidades del viento pueden utilizarse para predecir y mitigar los efectos de desastres naturales, mientras que los patrones de tráfico en tiempo real facilitan la gestión del flujo vehicular y la reducción de la congestión.
+
+Por otro lado, las dimensiones sociales abarcan la capacidad actual del transporte público, los negocios presentes en la ciudad y los eventos locales que se están llevando a cabo. La integración de esta información en el gemelo digital permite una planificación urbana más eficaz, optimizando el uso del transporte público y fomentando el desarrollo económico mediante la identificación de áreas de oportunidad para nuevos negocios y eventos comunitarios. En resumen, los gemelos digitales urbanos ofrecen una herramienta poderosa para la gestión y el desarrollo sostenible de las ciudades inteligentes.
+
+
+Esta metodología de trabajo tiene basicamente 3 puntos clave como lo son el Entorno físico(escenario real que se quiere representar), el Modelo Digital(réplica virtual del etorno físico) y Las Conexiones (canales que conectan el mundo fisico con su gemelo y lo mantienen actualizado)
+
+#### Gemelos Digitales en la Infraestructura de Transporte
+
+La aplicación de Gemelos Digitales en la infraestructura de transporte presenta un potencial significativo para mejorar su rendimiento general. A pesar de los desafíos asociados a la escala espacial y la gestión de grandes volúmenes de datos, los DT ofrecen una variedad de oportunidades para:
+
+Optimizar el diseño: Los DT permiten a los ingenieros y diseñadores adaptar las soluciones a las necesidades específicas de cada proyecto. Esto facilita la creación de infraestructura más eficiente y sostenible.
+Mejorar la gestión: Mediante la integración de datos en tiempo real sobre el tráfico, las condiciones climáticas y el estado de los activos, los DT permiten a los gestores de infraestructuras tomar decisiones informadas sobre el mantenimiento preventivo y la optimización del flujo de tráfico.
+Aumentar la eficiencia del mantenimiento: Los DT pueden utilizarse para identificar problemas potenciales de forma proactiva, permitiendo intervenciones de mantenimiento más precisas y oportunas, lo que reduce los costos generales y prolonga la vida útil de la infraestructura.
+Impulsar la toma de decisiones basada en datos: Los DT proporcionan información valiosa en tiempo real que permite simular diferentes escenarios y evaluar las implicaciones de las decisiones de diseño y gestión.
+. Ejemplo: Gemelo Digital de una Carretera
+
+Para ilustrar el funcionamiento de un Gemelo Digital en la infraestructura de transporte, consideremos el ejemplo de una carretera. Un DT de este tipo podría integrar la siguiente información:
+
+Diseño y construcción: detalles de la carretera, drenaje, señalización y otros elementos estructurales.
+Modelos de flujo de tráfico: patrones de tráfico históricos y simulaciones de escenarios futuros.
+Planes de gestión de incidentes: protocolos para responder a accidentes, bloqueos y otros eventos imprevistos.
+Seguimiento del tráfico en tiempo real: datos sobre la congestión, la velocidad y otros factores que afectan el flujo del tráfico.
+Incidencias en tiempo real: información sobre accidentes, obras y otros eventos que pueden afectar la seguridad y la eficiencia de la carretera.
+Al combinar estos datos en un modelo digital, se crea una "inteligencia integral" que se actualiza constantemente. Esta información permite a los responsables de la infraestructura:
+
+Identificar y corregir problemas de tráfico y mantenimiento de forma proactiva.
+Optimizar el uso de la carretera para mejorar el flujo del tráfico y reducir la congestión.
+Reducir los costos de mantenimiento mediante la priorización de intervenciones basadas en el estado real de los activos.
+Mejorar la seguridad vial mediante la simulación de escenarios de accidentes y la identificación de puntos críticos.
+
+### Hipotesis
+La implementación de gemelos digitales en el transporte público tiene el potencial de optimizar los recorridos y proporcionar actualizaciones en tiempo real, lo que resultará en una mejora significativa en la eficiencia operativa y la experiencia del usuario durante las horas pico.
+
+#### Demostración
+
